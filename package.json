@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Abdelaziz-Ali/Webpack-Template/issues"
+    "url": "https://github.com/MarcoDDM/Webpack-Template/issues"
   },
-  "homepage": "https://github.com/Abdelaziz-Ali/Webpack-Template#readme",
+  "homepage": "https://github.com/MarcoDDM/Webpack-Template#readme",
   "devDependencies": {
     "css-loader": "^6.7.3",
     "html-webpack-plugin": "^5.5.0",
